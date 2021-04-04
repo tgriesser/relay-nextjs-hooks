@@ -1,4 +1,4 @@
-# relay-nextjs-hooks-compiler
+# relay-compiler-language-nextjs-hooks
 
 Experimental relay-compiler-typescript plugin for relay-nextjs-hooks
 

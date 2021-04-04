@@ -1,4 +1,4 @@
-# relay-nextjs
+# relay-nextjs-hooks
 
 Experimental / WIP. Opinionated Relay hooks for Next.js
 
