@@ -1,6 +1,6 @@
 {
   "name": "relay-compiler-language-nextjs-hooks",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": {
@@ -21,9 +21,9 @@
     "./dist"
   ],
   "dependencies": {
-    "relay-compiler-language-typescript": "^13.0.9",
     "@types/react-relay": "^11.0.1",
-    "@types/relay-runtime": "^11.0.0"
+    "@types/relay-runtime": "^11.0.0",
+    "relay-compiler-language-typescript": "^13.0.9"
   },
   "devDependencies": {
     "@types/relay-compiler": "^8.0.0",
