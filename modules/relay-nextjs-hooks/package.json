@@ -16,10 +16,6 @@
     "prepublish": "./node_modules/.bin/tsc"
   },
   "license": "MIT",
-  "files": [
-    "./src",
-    "./dist"
-  ],
   "dependencies": {
     "lodash.isequal": "4.5.0"
   },

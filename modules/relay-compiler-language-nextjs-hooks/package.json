@@ -16,10 +16,6 @@
     "prepublish": "./node_modules/.bin/tsc"
   },
   "license": "MIT",
-  "files": [
-    "./src",
-    "./dist"
-  ],
   "dependencies": {
     "@types/react-relay": "^11.0.1",
     "@types/relay-runtime": "^11.0.0",
