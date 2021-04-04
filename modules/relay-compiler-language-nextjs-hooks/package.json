@@ -1,0 +1,31 @@
+{
+  "name": "relay-compiler-language-nextjs-hooks",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": {
+    "name": "Tim Griesser",
+    "email": "tgriesser@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/tgriesser/relay-nextjs-hooks",
+    "directory": "modules/relay-compiler-language-nextjs-hooks",
+    "type": "git"
+  },
+  "scripts": {
+    "prepublish": "./node_modules/.bin/tsc"
+  },
+  "license": "MIT",
+  "files": [
+    "./src",
+    "./dist"
+  ],
+  "dependencies": {
+    "relay-compiler-language-typescript": "^13.0.9"
+  },
+  "devDependencies": {
+    "@types/relay-compiler": "^8.0.0",
+    "relay-compiler": "^11.0.1",
+    "typescript": "^4.2.3"
+  }
+}
