@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "0.0.1",
   "npmClient": "yarn",
   "useWorkspaces": true,
   "command": {
@@ -8,7 +8,9 @@
     },
     "publish": {
       "npmClient": "npm",
-      "allowBranch": ["main"],
+      "allowBranch": [
+        "main"
+      ],
       "registry": "https://registry.npmjs.org/"
     }
   }
