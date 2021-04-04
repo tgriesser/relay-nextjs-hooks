@@ -21,11 +21,15 @@
     "./dist"
   ],
   "dependencies": {
-    "relay-compiler-language-typescript": "^13.0.9"
+    "relay-compiler-language-typescript": "^13.0.9",
+    "@types/react-relay": "^11.0.1",
+    "@types/relay-runtime": "^11.0.0"
   },
   "devDependencies": {
     "@types/relay-compiler": "^8.0.0",
+    "graphql": "^15.5.0",
     "relay-compiler": "^11.0.1",
+    "relay-runtime": "^11.0.1",
     "typescript": "^4.2.3"
   }
 }
